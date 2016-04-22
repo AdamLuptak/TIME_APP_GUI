@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#46211A</color>
+    <color name="colorPrimaryDark">#693D3D</color>
+    <color name="textColorPrimary">#BA5536</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#A43820</color>
+</resources>
